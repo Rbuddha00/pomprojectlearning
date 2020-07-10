@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="8089" started-at="2020-07-04T23:26:04Z" finished-at="2020-07-04T23:26:12Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="8089" started-at="2020-07-04T23:26:04Z" finished-at="2020-07-04T23:26:12Z">
+      <class name="com.qa.tools.base.DriverScript">
+        <test-method status="PASS" signature="qatools()[pri:0, instance:com.qa.tools.base.DriverScript@5c3bd550]" name="qatools" duration-ms="8069" started-at="2020-07-04T23:26:04Z" finished-at="2020-07-04T23:26:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- qatools -->
+      </class> <!-- com.qa.tools.base.DriverScript -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
